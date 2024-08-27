@@ -1,7 +1,7 @@
 {
     "FFlagHandleAltEnterFullscreenManually": "False",
     "FLogNetwork": "7",
-    "DFIntTaskSchedulerTargetFps": "180",
+    "DFIntTaskSchedulerTargetFps": "999999",
     "DFLogHttpTraceLight": "0",
     "FFlagEnableMenuControlsABTest": "False",
     "FFlagFixGraphicsQuality": "True",
